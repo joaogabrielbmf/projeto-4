@@ -1,4 +1,4 @@
-const API = '/api/todos';
+const API = '/api/todos'; 
 let todos = [];
 let currentFilter = 'all';
 let editingId = null;
